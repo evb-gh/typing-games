@@ -1,5 +1,5 @@
 {
-  "name": "nitrotype",
+  "name": "typing games",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,8 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.25.1"
+  },
+  "dependencies": {
+    "playwright": "^1.25.1"
   }
 }
