@@ -4,12 +4,12 @@ The project uses [Playwright API](https://playwright.dev/) and [chromium](https:
 
 ## Installation
 
-Use [JavaScript package manager](https://github.com/npm/cli) to instalL.
+Use [JavaScript package manager](https://github.com/npm/cli) to install.
 
 ```bash
 git clone https://github.com/evb-gh/typing-games.git
 cd typing-games
-npm install 
+npm install
 ```
 
 ## Usage
@@ -24,4 +24,5 @@ npm run monkeytype.js
 ```
 
 ## TODO
+
 - [ ] rewrite in python
