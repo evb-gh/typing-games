@@ -7,6 +7,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "keymash": "node keymash.js",
+    "typeracer": "node typeracer.js",
+    "monkeytype": "node monkeytype.js",
+    "nitrotype": "node nitrotype.js"
+  },
   "devDependencies": {
     "@playwright/test": "^1.25.1"
   },
