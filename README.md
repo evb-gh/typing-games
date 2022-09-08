@@ -17,10 +17,10 @@ npm install
 ```bash
 
 # run script for keymash.io
-npm run keymash.js
+npm run keymash
 
 # run script for monkeytype.com
-npm run monkeytype.js
+npm run monkeytype
 ```
 
 ## TODO
