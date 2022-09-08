@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "scripts": {
     "keymash": "node keymash.js",
     "typeracer": "node typeracer.js",
     "monkeytype": "node monkeytype.js",
     "nitrotype": "node nitrotype.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.25.1"
   },
